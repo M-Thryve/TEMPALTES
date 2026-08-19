@@ -1,0 +1,10 @@
+{
+  "description": "A professional, modern website template designed for warehouse providers to showcase services, facilities, and generate customer inquiries efficiently.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

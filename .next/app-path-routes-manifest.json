@@ -1,0 +1,16 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/about/page": "/about",
+  "/careers/page": "/careers",
+  "/contact/page": "/contact",
+  "/facilities/page": "/facilities",
+  "/faq/page": "/faq",
+  "/favicon.ico/route": "/favicon.ico",
+  "/industries/page": "/industries",
+  "/page": "/",
+  "/privacy/page": "/privacy",
+  "/quote/page": "/quote",
+  "/services/page": "/services",
+  "/terms/page": "/terms"
+}

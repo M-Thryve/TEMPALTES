@@ -1,0 +1,21 @@
+1:"$Sreact.fragment"
+2:I[38935,["/_next/static/chunks/2lz4x2r1ajmuy.js","/_next/static/chunks/43ey118y8ck73.js","/_next/static/chunks/1-iy4xxg55plf.js"],"default"]
+3:I[97367,["/_next/static/chunks/2lz4x2r1ajmuy.js","/_next/static/chunks/43ey118y8ck73.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+8:I[97367,["/_next/static/chunks/2lz4x2r1ajmuy.js","/_next/static/chunks/43ey118y8ck73.js"],"ViewportBoundary"]
+9:I[97367,["/_next/static/chunks/2lz4x2r1ajmuy.js","/_next/static/chunks/43ey118y8ck73.js"],"MetadataBoundary"]
+a:I[27201,["/_next/static/chunks/2lz4x2r1ajmuy.js","/_next/static/chunks/43ey118y8ck73.js"],"IconMark"]
+c:I[39756,["/_next/static/chunks/2lz4x2r1ajmuy.js","/_next/static/chunks/43ey118y8ck73.js"],"default"]
+d:I[37457,["/_next/static/chunks/2lz4x2r1ajmuy.js","/_next/static/chunks/43ey118y8ck73.js"],"default"]
+7:X
+f:X
+f:C
+0:{"buildId":"Jzp2B77CoCHf5aZvM8hEh","data":[{"rsc":["$","$1","c",{"children":[[["$","section",null,{"className":"bg-primary-800 py-20 sm:py-24 ","children":["$","div",null,{"className":"container-page ","children":["$","div",null,{"className":"mx-auto max-w-3xl text-center","children":["$undefined",["$","h1",null,{"className":"font-heading text-[2.75rem]/[1.15] font-semibold tracking-tight text-neutral-900 text-white","children":"Request a Quote"}],["$","p",null,{"className":"text-lg/relaxed text-neutral-700 mt-6 text-primary-100","children":"Tell us about your storage needs and we will prepare a custom solution within one business day."}]]}]}]}],["$","$L2",null,{"intro":"Fill out the form below and a member of our team will reach out to discuss your specific warehousing requirements.","button_label":"Submit Quote Request","process":[{"title":"Tell Us About Your Needs","description":"Fill out the form with your storage requirements, volume, and timeline."},{"title":"Receive a Custom Proposal","description":"Our team will prepare a tailored quote within one business day."},{"title":"Tour & Finalize","description":"Schedule a facility tour, review the proposal, and finalize your storage plan."},{"title":"Get Started","description":"Begin receiving inventory and managing your stock through our platform."}]}]],[["$","script","script-0",{"src":"/_next/static/chunks/1-iy4xxg55plf.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L8",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L9",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"General Warehouse Provider"}],["$","meta","1",{"name":"description","content":"Professional warehouse and storage solutions for businesses of all sizes."}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$La","3",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":"$@b","staleTime":"$7","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Lc",null,{"parallelRouterKey":"children","template":["$","$Ld",null,{}]}]]}],"isPartial":"$@e","staleTime":"$7","varyParams":"$f"}],"isUpgradeableISRFallback":false,"a":"$@10","rootVaryParams":null,"needsRuntimeRequest":"$@11"}
+5:null
+11:true
+7:300
+7:C
+10:0
+b:"$undefined"
+e:"$undefined"
+6:"$undefined"
